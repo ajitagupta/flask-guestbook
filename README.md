@@ -89,4 +89,5 @@ MIT – Free to use, modify, and distribute.
 
 ## 🙋‍♀️ Author
 Made with ❤️ by Ajita Gupta
+<br>
 Follow the tutorial series on Medium

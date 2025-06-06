@@ -22,7 +22,14 @@ This is Part 3 of a tutorial series on building web apps with Flask.
 ---
 
 ## 📁 Project Structure
-<pre><code>flask-guestbook/ ├── app.py # Main Flask application ├── static/ # Static files (CSS, JS, images) │ └── style.css # Styling for form and layout └── templates/ # Jinja2 HTML templates ├── base.html # Shared base template ├── home.html # Home page content └── guestbook.html # Guestbook form and entries </code></pre>
+<pre><code>flask-guestbook/
+├── app.py # Main Flask application
+├── static/ # Static files (CSS, JS, images)
+│ └── style.css # Styling for form and layout
+└── templates/ # Jinja2 HTML templates
+│ └──  base.html # Shared base template
+│ └── home.html # Home page content
+│ └── guestbook.html # Guestbook form and entries </code></pre>
 ---
 
 ## 💡 How It Works

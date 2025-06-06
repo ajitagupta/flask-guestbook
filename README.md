@@ -48,16 +48,17 @@ This is Part 3 of a tutorial series on building web apps with Flask.
 
 ```bash
 pip install Flask
-
+```
 
 ### 2. Run the App
 ```bash
 python app.py
-
+```
 
 ### 3. Open in Browser
 ```bash
 Go to http://127.0.0.1:5000
+```
 
 ## 📦 Features
 ✅ Clean template structure
